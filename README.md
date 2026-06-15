@@ -26,4 +26,10 @@ Our commitment to digital security knows no bounds:
 We are a continuously expanding community-driven initiative. Whether you are a technologist, educator, or digital safety advocate, your skills can help protect others.
 
 - 📥 **Take the Risk Assessment:** Visit our [NamKural](https://namkural.com/) portal.
-- 💙 **Join as a Volunteer:** [Sign up on our platform](
+- 💙 **Join as a Volunteer:** [Sign up on our platform](https://namkural.com/).
+
+## 📄 License
+All research, frameworks, and educational materials produced by NamKural are distributed under the MIT Open License.
+
+---
+*Serving with integrity. Protecting every American in the digital age.*
